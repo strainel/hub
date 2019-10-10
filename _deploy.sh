@@ -10,7 +10,7 @@ git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git o
 rm -fr ./output/*
 
 # Copie des fichiers par module
-cp -r ./public/ ./output/
+cp -r ./public/* ./output/
 
 # Publication des fichiers sur la branche "gh-pages" de GitHub
 cd output
