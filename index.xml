@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</title>
-    <link>http://example.org/</link>
+    <link>https://139bercy.github.io/hub/</link>
     <description>Recent content on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://139bercy.github.io/hub/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
