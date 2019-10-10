@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "MEF >> SG >> DSI >> Hub"
+theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Valeurs"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Services"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Equipe"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
