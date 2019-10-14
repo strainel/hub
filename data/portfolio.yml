@@ -16,34 +16,34 @@ portfolioItem :
     image : images/portfolio/portfolio-1.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Conférence \\#1 Démystigions les mots à la mode
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : "Conférence #1 Démystigions les mots à la mode"
+    description : Big data, intelligence artificielle, datascience, machien learning, deep learning, dataviz, analyse prédictive... de quoi parle-t-on ?
     
   - types : seminaire
     image : images/portfolio/portfolio-1.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Conférence \\#2 Science de la donnée et opendata au service de nos missions
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : "Conférence #2 Science de la donnée et opendata au service de nos missions"
+    description : L'accès gratuit aux données et les outils de datascience ont un impact sur nos missions. Comment ? 
     
   - types : seminaire
     image : images/portfolio/portfolio-2.jpg
     icon : tf-ion-android-search
     URL : #
     title : Journée de la donnée 29/11/2019
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : La donnée dans tous ses états ! Découvrir les usages, les tendances, les innovations possibles grâce à la donnée !
     
   - types : datascience
     image : images/portfolio/portfolio-3.jpg
     icon : tf-ion-android-search
     URL : #
     title : Prélancement de l'incubateur 14/10/2019
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Première rencontre des jeunes apprentis et des porteurs de projet. Un travail en codesign pour se fixer les travaux des premiers mois. Rendez-vous en décemnbre pour faire le point.
     
   - types : data
     image : images/portfolio/portfolio-3.jpg
     icon : tf-ion-android-search
     URL : #
     title : Création de la communauté des administrateurs des données des MEF
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Lancement de la mobilisation ministérielle autour des données ; place à l'action !
     
