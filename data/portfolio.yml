@@ -13,14 +13,14 @@ filterList :
 
 portfolioItem :
   - types : seminaire
-    image : images/portfolio/portfolio-1.jpg
+    image : images/portfolio/pascal-bernardon-AMrXWphFUu0-unsplash.jpg
     icon : tf-ion-android-search
     URL : #
     title : "Conférence #1 Démystigions les mots à la mode"
     description : Big data, intelligence artificielle, datascience, machien learning, deep learning, dataviz, analyse prédictive... de quoi parle-t-on ?
     
   - types : seminaire
-    image : images/portfolio/portfolio-1.jpg
+    image : images/portfolio/pascal-bernardon-AMrXWphFUu0-unsplash.jpg
     icon : tf-ion-android-search
     URL : #
     title : "Conférence #2 Science de la donnée et opendata au service de nos missions"
