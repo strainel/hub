@@ -1,7 +1,7 @@
 baseURL = "https://139bercy.github.io/hub/"
 languageCode = "en-us"
 title = "MEF >> SG >> DSI >> Hub"
-theme = "meghna-hugo"
+theme = "meghna-hugo-str"
 
 # Menu
 [menu]
