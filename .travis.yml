@@ -5,10 +5,10 @@ language: go
 go:
   - 1.12.x
 
-#cache:
-#  directories:
-#    - $HOME/.cache/go-build
-#    - $HOME/gopath/pkg/mod
+cache:
+  directories:
+    - $HOME/.cache/go-build
+    - $HOME/gopath/pkg/mod
 
 install: go get github.com/gohugoio/hugo
 
