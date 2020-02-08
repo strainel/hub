@@ -16,6 +16,10 @@ teamMember :
     name : Sasun Saugy
     designation : Chargé de mission innovation
 
-  - image : images/team/team-3.jpg
+  - image : images/team/team-af.jpg
     name : Arnaud Famin
     designation : Chargé de mission data
+    description : Arrivé en mars 2019 à la DSI, accompagne l'administrateur ministériel des données dans ses démarches, en particulier sur l'ouverture des données des Ministères économiques et financiers.
+    socialIcon :
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/arnaud-famin/"
