@@ -1,0 +1,20 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Conférences"
+      icon : "ti-info" # themify icon pack : https://themify.me/themify-icons
+      count : "4"
+    
+    # counter item loop
+    - title : "Geek lunch"
+      icon : "ti-ruler-alt-2" # themify icon pack : https://themify.me/themify-icons
+      count : "2"
+
+    # counter item loop
+    - title : "Start-up"
+      icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
+      count : "3"
