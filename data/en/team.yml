@@ -1,0 +1,31 @@
+############################### team ############################
+team:
+  enable : true
+  title : Notre équipe
+  team_member :
+    - image : images/team/team-st.jpeg
+      name : Stéphane Trainel
+      designation : Administrateur ministériel des données
+      content : Arrivé en avril 2019 à la DSI, en charge de la gouvernance de la donnée aux MEF et de la mise en place de l'incubation des projets à dominante données et fortement numérique.
+      social :
+        - icon : ti-twitter-alt
+          link : "https://twitter.com/stephanetrainel"
+        - icon : ti-linkedin
+          link : "https://www.linkedin.com/in/stephane-trainel/"
+
+    - image : images/team/team-2.jpg
+      name : Sasun Saugy
+      designation : Chargé de mission innovation
+
+    - image : images/team/team-af.jpg
+      name : Arnaud Famin
+      designation : Chargé de mission data
+      content : Arrivé en mars 2019 à la DSI, accompagne l'administrateur ministériel des données dans ses démarches, en particulier sur l'ouverture des données des Ministères économiques et financiers.
+      social :
+        - icon : ti-linkedin
+          link : "https://www.linkedin.com/in/arnaud-famin/"
+
+    - image : images/team/team-3.jpg
+      name : Mme ou M XY
+      designation : Datascientist
+      content : Recrutement en cours

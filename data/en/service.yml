@@ -1,0 +1,27 @@
+service:
+  enable : true
+  title : Nos Services
+  service_item :
+    - icon : ti-crown
+      title : Gouvernance de la donnée
+      content : Faire de la donnée un actif stratégique des ministères économiques et financiers ! Utiliser les données au service de nos missions.
+
+    - icon : ti-world
+      title : Acculturation
+      content : Aider les agents et les managers à comprendre les évolutions apportées par la donnée, le numérique et l'innovation sous toutes ses formes.
+      
+    - icon : ti-ruler-pencil
+      title : Incubateur
+      content : Si vous vous sentez l'âme innovante, vous souhaitez lancer un projet numérique incertain, sur des technologies émergentes, alors c'est ici !
+      
+    - icon : ti-palette
+      title : Outils
+      content : C'est la boîte à outils pour aider tous les agents qui souhaitent tester ou mettre en oeuvre des technologies pour innover dans leurs missions.
+      
+    - icon : ti-search
+      title : Veille
+      content : Un peu de veille ne fait pas de mal. Se tenir informé des technologies émergentes, des expériences menées dans d'autres directions ou d'autres ministères.
+      
+    - icon : ti-comments-smiley
+      title : Mise en réseau
+      content : En interne, mais aussi avec nos partenaires, comme l'IMA, le CRIP, le TOSIT, le Gartner... Seul on va plus vite, ensemble nous allons plus loin !
