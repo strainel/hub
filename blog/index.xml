@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</title>
-    <link>https://139bercy.github.io/hub/</link>
-    <description>Recent content on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</description>
+    <title>Blogs on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</title>
+    <link>https://139bercy.github.io/hub/blog/</link>
+    <description>Recent content in Blogs on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 07 Feb 2020 12:53:50 +0100</lastBuildDate>
     
-	<atom:link href="https://139bercy.github.io/hub/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://139bercy.github.io/hub/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://139bercy.github.io/hub/categories/</loc>
+    <loc>https://139bercy.github.io/hub/blog/</loc>
+    <lastmod>2020-02-07T12:53:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://139bercy.github.io/hub/blog/opendata_communaute_20200122/</loc>
+    <lastmod>2020-02-07T12:53:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://139bercy.github.io/hub/</loc>
+    <lastmod>2020-02-07T12:53:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://139bercy.github.io/hub/categories/</loc>
   </url>
   
   <url>
