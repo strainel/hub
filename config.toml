@@ -58,13 +58,13 @@ URL = "services"
 weight = 3
 
 [[menu.main]]
-name = "Portfolio"
+name = "Travaux"
 URL = "portfolio"
 weight = 4
 
 [[menu.main]]
 name = "Equipe"
-URL = "our-team"
+URL = "team"
 weight = 5
 
 [[menu.main]]
@@ -96,7 +96,7 @@ preloader = "images/logo.png"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCoayo4xzqqKgtWr5IamtchagQt1J51PdM"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDkmyMOGbZi099Js5IAHEi5JvCtU2qg5hw"
 map_latitude = "48.8402778"
 map_longitude = "2.3777777777"
 map_marker = "images/marker.png"
@@ -107,4 +107,4 @@ languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
-home = "Accueil"
+#home = "Accueil"
