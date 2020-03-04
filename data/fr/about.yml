@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Nos Valeurs
+  about_item :
+  - icon : ti-alert # themify icon pack : https://themify.me/themify-icons
+    title : Avant tout
+    content : impliqués dans la transformation numérique de l'état,
+
+  - icon : ti-hand-point-right # themify icon pack : https://themify.me/themify-icons
+    title : Nous sommes
+    content : au sein des Ministères économiques et financiers,
+
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Une équipe
+    content : en charge de construire la politique des données ministérielles.

@@ -1,9 +1,11 @@
 ---
 title: "Création de la communauté opendata de Bercy"
 date: 2020-02-07T12:53:50+01:00
+image: images/blog/blog-post-od_com.jpg
 draft: false
 author: Bercy hub
 description : "Il s'agit du compte rendu du premier atelier"
+
 ---
 
 *Le mercredi 22 janvier 2020, le **[secrétariat général des ministères économiques et financiers](https://www.economie.gouv.fr/vous-orienter/organigramme/secretariat-general-des-ministeres-economiques-et-financiers-sg)** a organisé un atelier de réflexion et d'idéation sur les données ouvertes de Bercy et sur la plateforme qui les hébergent. Une quinzaine d'utilisateurs finaux et d'acteurs de l'écosystème opendata étaient présents.*
@@ -11,9 +13,9 @@ description : "Il s'agit du compte rendu du premier atelier"
 ***
 
 ## Contexte de l'atelier
-Avec la publication de près de 400 jeux de données sur le portail [data.gouv.fr](https://data.gouv.fr) et la mise en place d'un portail dédié aux MEF [data.economie.gouv.fr](https://data.economie.gouv.fr), le secrétariat général des ministères économiques et financiers (SG-MEF) a souhaité **échanger avec des utilisateurs finaux** des données ouvertes. Cette action reflète la volonté de Bercy de mieux répondre aux besoins des utilisateurs et ainsi renforcer les liens de confiance et de transparence avec eux et leur donner les moyens d'innover et de générer un impact économique avec les données ouvertes. 
+Avec la publication de près de 400 jeux de données sur le portail [data.gouv.fr](https://data.gouv.fr) et la mise en place d'un portail dédié aux MEF [data.economie.gouv.fr](https://data.economie.gouv.fr), le secrétariat général des ministères économiques et financiers (SG-MEF) a souhaité **échanger avec des utilisateurs finaux** des données ouvertes. Cette action reflète la volonté de Bercy de mieux répondre aux besoins des utilisateurs et ainsi renforcer les liens de confiance et de transparence avec eux et leur donner les moyens d'innover et de générer un impact économique avec les données ouvertes.
 
-Ce premier atelier a eu lieu au sein de **Station C**, un espace dans les locaux du CISIRH pour favoriser la créativité et le travail collaboratif. Cet atelier a permis de comprendre ce que représente l'opendata pour des utilisateurs, d'identifier les données des MEF considérées comme étant des *golden data* et de caractériser les différentes typologies des utilisateurs des données ouvertes. Les échanges qui ont eu lieu au cours de cet atelier ont également permis d'identifier les freins rencontrés par les utilisateurs aujourd'hui, et des premiers axes de travail pour y remédier. 
+Ce premier atelier a eu lieu au sein de **Station C**, un espace dans les locaux du CISIRH pour favoriser la créativité et le travail collaboratif. Cet atelier a permis de comprendre ce que représente l'opendata pour des utilisateurs, d'identifier les données des MEF considérées comme étant des *golden data* et de caractériser les différentes typologies des utilisateurs des données ouvertes. Les échanges qui ont eu lieu au cours de cet atelier ont également permis d'identifier les freins rencontrés par les utilisateurs aujourd'hui, et des premiers axes de travail pour y remédier.
 
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions.
 
@@ -21,8 +23,8 @@ Cet article retrace le déroulement de l'atelier et synthétise les différents 
 
 
 ## "Que vous inspire l'Open Data ?"
-Pour initialiser ce travail de co-construction de la démarche Open Data des MEF, un premier exercice *warm-up* a permis d'identifier les grands sujets autour de l'Open Data du point de vue des utilisateurs. 
-Les participants ont été séparés en deux groupes, et en quelques minutes de travail collaboratif, chaque groupe devait remplir le graphe ci-dessous avec des sujets que leur inspire l'Open Data, chaque mot devant avoir un lien avec le mot auquel il est relié. 
+Pour initialiser ce travail de co-construction de la démarche Open Data des MEF, un premier exercice *warm-up* a permis d'identifier les grands sujets autour de l'Open Data du point de vue des utilisateurs.
+Les participants ont été séparés en deux groupes, et en quelques minutes de travail collaboratif, chaque groupe devait remplir le graphe ci-dessous avec des sujets que leur inspire l'Open Data, chaque mot devant avoir un lien avec le mot auquel il est relié.
 
 ![Schéma du warmup](/hub/images/blog/opendata_atelier01_20200123_warmup.png "Le schéma du warm-up")
 
@@ -31,7 +33,7 @@ Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le 
 
 ![Le warmup rempli !](/hub/images/blog/opendata_atelier01_20200123_warmup_resultat.png "Le warm-up rempli par les participants")
 
-Cet exercice a permis de mettre en avant plusieurs sujets centraux autour de l'Open Data, identifiés par les deux groupes : 
+Cet exercice a permis de mettre en avant plusieurs sujets centraux autour de l'Open Data, identifiés par les deux groupes :
 * **Culture** Open Data, **structuration** de la collecte et de la publication des données
 * **Transparence** et droit d'accès à l'information
 * **Usage et valorisation des données ouvertes** : sujet le plus cité, correspond à la qualité et la granularité des données publiées, la documentation de celles-ci, leur mise à jour régulière, etc.
@@ -40,7 +42,7 @@ Ces sujets reflètent une réelle volonté des participants d'explorer et d'extr
 
 
 ## Les Golden Data
-Pour répondre à cette question, une **liste de jeux de données des MEF** a été présentée aux participants. Les participants ont travaillé en groupe pour compléter la liste avec des données incarnant l'image des MEF, puis pour désigner des jeux de données emblématiques (qu'on appelle ici *Golden Data*), chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données. 
+Pour répondre à cette question, une **liste de jeux de données des MEF** a été présentée aux participants. Les participants ont travaillé en groupe pour compléter la liste avec des données incarnant l'image des MEF, puis pour désigner des jeux de données emblématiques (qu'on appelle ici *Golden Data*), chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données.
 
 ![Les golden data !](/hub/images/blog/opendata_atelier01_20200123_goldendata.png "Le golden data identifiés par les participants")
 

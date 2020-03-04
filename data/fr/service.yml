@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nos Objectifs
+  service_item :
+    # service item loop
+    - name : Piloter la donnée
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : Faire de la donnée un actif stratégique des ministères économiques et financiers ! Utiliser les données au service de nos missions.
+
+    # service item loop
+    - name : Accompagner les agents
+      icon : ti-direction # themify icon pack : https://themify.me/themify-icons
+      content : Aider les agents et les managers à comprendre les évolutions apportées par la donnée, le numérique et l’innovation sous toutes ses formes.
+
+    # service item loop
+    - name : Porter l'innovation
+      icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
+      content : Si vous vous sentez l'âme innovante, vous souhaitez lancer un projet numérique incertain, sur des technologies émergentes, alors c’est ici !
+
+    # service item loop
+    - name : Apporter des outils
+      icon : ti-hummer # themify icon pack : https://themify.me/themify-icons
+      content : C’est la boîte à outils pour aider tous les agents qui souhaitent tester ou mettre en oeuvre des technologies pour innover dans leurs missions.
+
+    # service item loop
+    - name : Assurer une veille
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : Un peu de veille ne fait pas de mal. Se tenir informé des technologies émergentes, des expériences menées dans d’autres directions ou d’autres ministères.
+
+    # service item loop
+    - name : Créer des contacts
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content : En interne, mais aussi avec nos partenaires, comme l’IMA, le CRIP, le TOSIT, le Gartner… Seul on va plus vite, ensemble nous allons plus loin !

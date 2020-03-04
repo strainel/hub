@@ -1,0 +1,39 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nos méthodes
+  subtitle : Comment nous développons la culture de la donnée.
+  content : En organisant régulièrement des événements, en accompagnant les agents au quotidien, en participant à des actions de formation...
+  image : images/about/coffee.png
+
+  skill_item :
+    # skill item loop
+    - name : Des actions concrètes
+      #percent : 100%
+
+    # skill item loop
+    - name : Proche des métiers
+      #percent : 20%
+
+    # skill item loop
+    - name : Travail en équipe
+      #percent : 80%
+
+    - name : Veille permanente
+      #percent : 35%
+
+    # skill item loop
+    - name : Diffusion de l'information
+      #percent : 75%
+
+    # skill item loop
+    - name : Animation d'ateliers
+      #percent : 75%
+
+    # skill item loop
+    - name : Dynamisme et motivation
+     #percent : 75%
+
+    # skill item loop
+    - name : Du café, du chocolat chaud, des chouquettes...
+     #percent : 75%

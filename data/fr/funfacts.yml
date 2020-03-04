@@ -6,12 +6,12 @@ funfacts:
   counter_item:
     # counter item loop
     - title : "Conférences"
-      icon : "ti-info" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
       count : "4"
-    
+
     # counter item loop
     - title : "Geek lunch"
-      icon : "ti-ruler-alt-2" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-ruler-pencil" # themify icon pack : https://themify.me/themify-icons
       count : "2"
 
     # counter item loop

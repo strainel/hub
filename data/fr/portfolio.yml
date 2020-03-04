@@ -1,0 +1,76 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Nos travaux
+  portfolio_item :
+    # portfolio item loop
+    - name : Conférences
+      image : images/portfolio/portfolio-1.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories : ["donnée","événements"]
+      content : Des conférences régulières pour approfondir un domaine de la donnée
+      link : "#"
+
+    # portfolio item loop
+    - name : Journée de la donnée
+      image : images/portfolio/portfolio-2.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["donnée","événements"]
+      content : Une fois par an, pour mettre la donnée à portée de tous
+      link : "#"
+
+    # portfolio item loop
+    - name : Communautés
+      image : images/portfolio/portfolio-3.jpg
+      #image_webp : images/portfolio/portfolio-3.webp
+      categories : ["communautés", "donnée"]
+      content : Création de communautés, administrateurs des données, open data, data scientists
+      link : "#"
+
+    # portfolio item loop
+    - name : Groupes de travail
+      image : images/portfolio/portfolio-4.jpg
+      #image_webp : images/portfolio/portfolio-4.webp
+      categories : ["ateliers"]
+      content : Travail en coopération avec les directions des MEF
+      link : "#"
+
+    # portfolio item loop
+    - name : Incubateur
+      image : images/portfolio/portfolio-5.jpg
+      #image_webp : images/portfolio/portfolio-5.webp
+      categories : ["incubateur"]
+      content : Pour accompagner les startups des MEF
+      link : "#"
+
+    # portfolio item loop
+    - name : Geek lunchs
+      image : images/portfolio/portfolio-6.jpg
+      #image_webp : images/portfolio/portfolio-6.webp
+      categories : ["communautés"]
+      content : Profiter de la pause méridienne pour apprendre en compagnie d'experts
+      link : "#"
+
+    # portfolio item loop
+    - name : Partenariats
+      image : images/portfolio/portfolio-7.jpg
+      #image_webp : images/portfolio/portfolio-7.webp
+      categories : ["communautés"]
+      content : Pour bénéficier de l'expériences d'autres acteurs de la donnée
+      link : "#"
+
+    # portfolio item loop
+    - name : Actions de formation
+      image : images/portfolio/portfolio-8.jpg
+      #image_webp : images/portfolio/portfolio-8.webp
+      categories : ["donnée"]
+      content : Pour transmettre nos connaissances
+      link : "#"
+
+    # portfolio item loop
+    - name : Open data
+      image : images/portfolio/portfolio-9.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : []
+      content : Pour mieux répondre aux besoins des citoyens
+      link : "#"
