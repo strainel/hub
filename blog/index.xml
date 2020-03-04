@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</title>
+    <title>Blogs on Bercy, administration des données et innovations numériques</title>
     <link>https://139bercy.github.io/hub/blog/</link>
-    <description>Recent content in Blogs on MEF &gt;&gt; SG &gt;&gt; DSI &gt;&gt; Hub</description>
+    <description>Recent content in Blogs on Bercy, administration des données et innovations numériques</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 07 Feb 2020 12:53:50 +0100</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Fri, 07 Feb 2020 12:53:50 +0100</pubDate>
       
       <guid>https://139bercy.github.io/hub/blog/opendata_communaute_20200122/</guid>
-      <description>Le mercredi 22 janvier 2020, le secrétariat général des ministères économiques et financiers a organisé un atelier de réflexion et d&amp;rsquo;idéation sur les données ouvertes de Bercy et sur la plateforme qui les hébergent. Une quinzaine d&amp;rsquo;utilisateurs finaux et d&amp;rsquo;acteurs de l&#39;écosystème opendata étaient présents.
- Contexte de l&amp;rsquo;atelier Avec la publication de près de 400 jeux de données sur le portail data.gouv.fr et la mise en place d&amp;rsquo;un portail dédié aux MEF data.</description>
+      <description>Le mercredi 22 janvier 2020, le secrétariat général des ministères économiques et financiers a organisé un atelier de réflexion et d&amp;rsquo;idéation sur les données ouvertes de Bercy et sur la plateforme qui les hébergent.</description>
     </item>
     
   </channel>
