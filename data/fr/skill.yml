@@ -2,8 +2,8 @@
 skill:
   enable : true
   title : Nos méthodes
-  subtitle : Comment nous développons la culture de la donnée.
-  content : En organisant régulièrement des événements, en accompagnant les agents au quotidien, en participant à des actions de formation...
+  subtitle : Développer une culture commune de la donnée
+  content : Grâce à des événements réguliers qui falorisent les travaux internes, grâce à un accompagnement des agents pour les aider à utiliser les données, grâce à des formations ou des sensibilisations quotidien, et bien d'autres choses !
   image : images/about/coffee.png
 
   skill_item :

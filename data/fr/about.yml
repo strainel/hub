@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-alert # themify icon pack : https://themify.me/themify-icons
     title : Avant tout
-    content : impliqués dans la transformation numérique de l'état,
+    content : impliqués dans les transformations numériques de l’État
 
   - icon : ti-hand-point-right # themify icon pack : https://themify.me/themify-icons
     title : Nous sommes
-    content : au sein des Ministères économiques et financiers,
+    content : au sein des ministères économiques et financiers
 
   - icon : ti-link # themify icon pack : https://themify.me/themify-icons
     title : Une équipe
-    content : en charge de construire la politique des données ministérielles.
+    content : en charge de construire la politique de la donnée ministérielle

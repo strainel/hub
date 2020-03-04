@@ -4,7 +4,7 @@ feature:
   image : images/about/about-business-man.jpg
   #image_webp : images/about/about-business-man.webp
   title : La donnée ne doit plus être perçue comme un élément du système d’information, mais bien comme un actif stratégique et essentiel du fonctionnement de l’économie et de l’État.
-  content : "Pour porter cette vision, nous organison un travail autour de 3 piliers,qui ont une propriété transversale à l’ensemble des métiers et des politiques publiques traitées au sein des ministères économiques et financiers"
+  content : "Pour y parvenir, la feuille de route 2020/21 couvre 3 piliers, qui ont une propriété transversale à l’ensemble des métiers et des politiques publiques traitées au sein des ministères économiques et financiers"
   feature_item :
       # feature item loop
     - title : Capital humain
