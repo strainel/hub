@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://139bercy.github.io/hub/"
 title = "Bercy, administration des données et innovations numériques"
-theme = "meghna-hugo"
+theme = "meghna-hugo-hub"
 # post pagination
 paginate = "6"
 # post excerpt
