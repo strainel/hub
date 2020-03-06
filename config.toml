@@ -101,7 +101,7 @@ preloader = "images/logo.png"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDkmyMOGbZi099Js5IAHEi5JvCtU2qg5hw"
 map_latitude = "48.841155"
 map_longitude = "2.377846"
