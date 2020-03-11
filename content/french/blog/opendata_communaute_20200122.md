@@ -19,19 +19,19 @@ Ce premier atelier a eu lieu au sein de **Station C**, un espace dans les locaux
 
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions.
 
-![Photo des participants](/hub/images/blog/opendata_atelier01_20200123_participants.png "Les participants de l'atelier")
+![Photo des participants](/hub/images/blog/opendata_atelier01_20200123_participants.png#full "Les participants de l'atelier")
 
 
 ## "Que vous inspire l'Open Data ?"
 Pour initialiser ce travail de co-construction de la démarche Open Data des MEF, un premier exercice *warm-up* a permis d'identifier les grands sujets autour de l'Open Data du point de vue des utilisateurs.
 Les participants ont été séparés en deux groupes, et en quelques minutes de travail collaboratif, chaque groupe devait remplir le graphe ci-dessous avec des sujets que leur inspire l'Open Data, chaque mot devant avoir un lien avec le mot auquel il est relié.
 
-![Schéma du warmup](/hub/images/blog/opendata_atelier01_20200123_warmup.png "Le schéma du warm-up")
+![Schéma du warmup](/hub/images/blog/opendata_atelier01_20200123_warmup.png#full "Le schéma du warm-up")
 
 
 Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le graphe du groupe opposé à partir des mots restants. Hormis quelques différences, les deux groupes ont identifié les mêmes grandes thématiques autour de l'opendata.
 
-![Le warmup rempli !](/hub/images/blog/opendata_atelier01_20200123_warmup_resultat.png "Le warm-up rempli par les participants")
+![Le warmup rempli !](/hub/images/blog/opendata_atelier01_20200123_warmup_resultat.png#full "Le warm-up rempli par les participants")
 
 Cet exercice a permis de mettre en avant plusieurs sujets centraux autour de l'Open Data, identifiés par les deux groupes :
 * **Culture** Open Data, **structuration** de la collecte et de la publication des données
@@ -44,7 +44,7 @@ Ces sujets reflètent une réelle volonté des participants d'explorer et d'extr
 ## Les Golden Data
 Pour répondre à cette question, une **liste de jeux de données des MEF** a été présentée aux participants. Les participants ont travaillé en groupe pour compléter la liste avec des données incarnant l'image des MEF, puis pour désigner des jeux de données emblématiques (qu'on appelle ici *Golden Data*), chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données.
 
-![Les golden data !](/hub/images/blog/opendata_atelier01_20200123_goldendata.png "Le golden data identifiés par les participants")
+![Les golden data !](/hub/images/blog/opendata_atelier01_20200123_goldendata.png#full "Le golden data identifiés par les participants")
 
 Les constats suivants ont été réalisés à l'issue de cet exercice :
 * Certains jeux de données portent plus de valeur aux yeux des participants : les **données budget**, **les données fiscales**, **les données sur les dépenses et les achats de l'Etat**
@@ -54,7 +54,7 @@ Les constats suivants ont été réalisés à l'issue de cet exercice :
 ## Les typologies d'utilsateurs
 Le dernier exercice de l'atelier consistait à identifier les jeux de données (parmi les *Golden Data*) qui intéresseraient le plus chaque typologie d'utilisateurs. Pour cela, trois profils d'utilisateur type ont été proposés aux participants.
 
-![Les profils des utilisateurs](/hub/images/blog/opendata_atelier01_20200123_users_slides.png "Les profils des utilisateurs de l'opendata")
+![Les profils des utilisateurs](/hub/images/blog/opendata_atelier01_20200123_users_slides.png#full "Les profils des utilisateurs de l'opendata")
 
 Durant cet exercice, les participants ont soulevé les points suivants :
 * Absence **d'orientation éditoriale et d'événement** autour des données publiées. Cela rend l'accès à ces informations difficile, principalement pour les "citoyens curieux" ou des utilisateurs type "Data Journalist". La publication des données avec davantage de **pédagogie** contribuerait significativement à une prise de conscience citoyenne sur le rôle de l'Open Data dans le renforcement des liens de transparence et de confiance Etat-Citoyens
