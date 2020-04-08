@@ -17,7 +17,7 @@ Comme nombre de grands goupes ou d'administrations, les ministères économiques
 
 De fait, les *informaticiens* - mais aussi les métiers - sont tiraillés entre la forte exigence d'une garantie d'un service parfaitement rendu et le besoin d'innover avec de nouvelles technologies, parfois émergentes, dont la fiabilité ou la sécurité n'a pas été vérifiée. Car, ce que l'on peut accepter d'une nouvelle application pour poster ses photos de vacances tout en regardant passivement de la publicité (grand argentier du numérique) ne le serait pas d'une application de l'Etat. Et c'est heureux.
 
-Dès lors, il est nécessaire de réfléchir à comment le mode (et non *la* mode) *startup* peut irriguer utilement la création de nouveaux services des MEF tout en gommant au mieux les impections de la méthode, qui, par exemple, remet à plus tard les questions de sécurité et de maintenabilité. 
+Dès lors, il est nécessaire de réfléchir à comment le mode (et non *la* mode) *startup* peut irriguer utilement la création de nouveaux services des MEF tout en gommant au mieux les imperfections de la méthode, qui, par exemple, remet à plus tard les questions de sécurité et de maintenabilité. 
 
 Le modèle d’incubation proposé aux MEF combine l'approche startup d’Etat (qui a fait ses preuves dans son volet interminisériel) et l'exigence de la transformation durable, ie celle qui est utile et performante pour assurer un meilleur service aux usagers et aux agents. La réussite de ce modèle est l'inclusion de toutes et de tous ; nul besoin de ringardiser les DSI qui assurent un travail ou d'encenser des profils prometteurs mais peu expérimentés. Tout est question d'équilibre.
 
@@ -69,4 +69,3 @@ Deux transformations sont à opérer pour rapprocher les équipes d'innovation e
 * adapter les processus et l’organisation des DSI pour permettre d’intégrer des services techniques dans un environnement normalisé et partagé à l’échelle par des équipes d’exploitation en charge d’opérer les systèmes en cohérence et sécurisés.
 
 L’enjeu majeur de l’incubateur des MEF porte sur cet alignement des métiers et des savoirs-faires, seul garant du succès et de la généralisation de ces méthodes agiles. Cette ambition se mettra progressivement en oeuvre, de manière personnalisée à chaque direction.
-
