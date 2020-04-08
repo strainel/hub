@@ -1,7 +1,7 @@
 ---
 title: "Incubation numérique aux MEF"
 date: 2020-02-07T12:53:50+01:00
-image: images/blog/blog-XX.jpg
+image: images/blog/innovation.jpg
 draft: false
 author: Bercy hub
 description : "Les enjeux sont trop importants pour ne pas réussir"
