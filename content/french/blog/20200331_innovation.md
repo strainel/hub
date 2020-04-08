@@ -13,7 +13,7 @@ Les géants du numérique ont compris l'exigence de l'immédiatété pour surviv
 
 > « faire vite , se tromper  vite », « meilleur produit viable », « livraison continue », etc.
 
-Comme nombre de grands goupes ou d'administrations, les ministères économiques et financiers disposent d’actifs applicatifs hérités de plus de 40 ans d’informatisation, qui ne peuvent pas être transformées en quelques années, s'il était d’ailleurs prouvé que ce serait strictement nécessaire.
+Comme nombre de grands goupes ou d'administrations, les ministères économiques et financiers disposent d’actifs applicatifs hérités de plus de 40 ans d’informatisation, qui ne peuvent pas être transformés en quelques années, s'il était d’ailleurs prouvé que ce serait strictement nécessaire.
 
 De fait, les *informaticiens* - mais aussi les métiers - sont tiraillés entre la forte exigence d'une garantie d'un service parfaitement rendu et le besoin d'innover avec de nouvelles technologies, parfois émergentes, dont la fiabilité ou la sécurité n'a pas été vérifiée. Car, ce que l'on peut accepter d'une nouvelle application pour poster ses photos de vacances tout en regardant passivement de la publicité (grand argentier du numérique) ne le serait pas d'une application de l'Etat. Et c'est heureux.
 
